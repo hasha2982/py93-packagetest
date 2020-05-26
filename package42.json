@@ -3,8 +3,8 @@
     "meta": {
         "title": "py93-packagetest",
         "author": "hasha2982",
-        "dispVer": "v1.0.0",
-        "compVer": 1,
+        "dispVer": "v1.1.0",
+        "compVer": 2,
         "license": "WTFPL",
         "packageSite": "https://github.com/hasha2982/py93-packagetest"
     },
