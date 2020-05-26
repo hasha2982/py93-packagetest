@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "meta": {
+        "title": "py93-packagetest93",
+        "author": "hasha2982",
+        "dispVer": "v1.0.0",
+        "compVer": 1,
+        "license": "WTFPL",
+        "packageSite": "https://github.com/hasha2982/py93-packagetest"
+    },
+    "install": {
+        "package": "https://raw.githack.com/hasha2982/py93-packagetest/master/py93-packagetest.brython.js"
+    }
+}
