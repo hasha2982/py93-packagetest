@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "meta": {
+        "compVer": 1
+    },
+    "install": {
+        "package": "https://raw.githack.com/hasha2982/py93-packagetest/master/py93-packagetest.brython.js"
+    }
+}
